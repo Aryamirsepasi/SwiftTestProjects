@@ -1,0 +1,1 @@
+This is a simple weather app written in SwiftUI, which I made while learning fundamentals using [Sean Allen's Tutorial](https://www.youtube.com/watch?v=b1oC7sLIgpI).
